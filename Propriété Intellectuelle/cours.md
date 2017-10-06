@@ -57,7 +57,7 @@ Pour faire valoir notre droit d'auteur, une date valide, le plus étant de s'env
 
 ---
 
-### TP : Analyse d'une affaire
+## TP1 : Analyse d'une affaire
 
 1. Prise de connaissance
 2. Brainstorming / Debrief
@@ -81,47 +81,47 @@ Un **contrat informatique** fait référence à une *vente* ou la *location d'ob
 
 ### Types de contrats
 
-##### La licence de logiciel
+#### La licence de logiciel
 
 Par ce **contrat informatique**, un **éditeur** concède à un client un *droit d'usage* sur un logiciel ont il détient les droits de **propriété intellectuelle**.
 
 Le *droit d'usage* accordé est délimité dans le **contrat**, et doit l'être dans des **termes clairs**, et **précis**, pour ne pas que le client se retrouve *"contrefacteur"* en cas d'utilisation non autorisée.
 
-##### Le contrat de maintenance
+#### Le contrat de maintenance
 
 Le **contrat de maintenance** accompagne souvent une *licence de logiciel*. C'est une *prestation* que l'éditeur préfère se réserver. Cependant la maintenance peut tout à fait être assurée par un tiers.
 
 Cette prestation consiste à **maintenir** un *système informatique* dans un état de fonctionnement **conforme aux exigences**. Rien n'oblige l'éditeur de le faire, bien que généralement l'éditeur préfère assurer ce service pour éviter de fournir les codes source.
 
-##### La licence de logiciel libre
+#### La licence de logiciel libre
 
 Le logiciel libre n'est *pas forcément* un logiciel gratuit.
 
-##### Le contrait de développement informatique
+#### Le contrait de développement informatique
 
-##### Le contrat d'intégration de logiciel
+#### Le contrat d'intégration de logiciel
 
-#####  Le contrat d'outsourcing
+####  Le contrat d'outsourcing
 
 Ou **contrat d'externalisation** consiste à confier la **totalité** d'une fonction ou d'un service à un *prestataire externe spécialisé*, pour une durée *pluriannuelle*. C'est un service complet accompagné d'un engagement en termes de niveaux de services particulièrement élaborés (ex: ovh, google cloud).
 
 Grâce à ce contrat, le client peut *s'exonérer des contraintes* que la gestion et la maintenance d'un *système informatique*, et peut se concentrer sur son cœur de métier. Les prestations peuvent être très variées.
 
-##### Le contrat d'ASP (Application Service Provider)
+#### Le contrat d'ASP (Application Service Provider)
 
 C'est une modalité particulière du **contrat d'outsourcing**. Le client détient directement un droit d'usage sur les logiciels, et transfère les moyens matériels et/ou humains à un prestataire, dans le contrat ASP, le client ne dispose que d'un droit d'accès et d'utilisation de logiciels hébergés par un prestataire.
 
-##### Le contrat SAAS (Software As A Service)
+#### Le contrat SAAS (Software As A Service)
 
 Ce contrat est un mode particulier du contrat ASP, plus abouti. Il est né pour pallier la trop grande standardisation de l'offre ASP. Ces applications sont fournies de façon mutualisée au profit d'autres entreprises, mais chacune d'entre elles peut en bénéficier sous forme personnalisé, parfaitement adaptée à ses besoin et aux programmes qu'elle utilise déjà.
 
-#### En conclusion
+### En conclusion
 
 Les contrats informatique sont complexe et appellent une vigilance particulière lors de leur rédaction. Il est donc nécessaire de bien définir les obligations du prestataire ou fournisseur informatique, et de prévoir, dans le cadre des contrats informatique, les modalités de son intervention en cas de difficultés.
 
 ---
 
-## TP2
+## TP2 : Analyse d'une affaire
 
 1. Recherche décision justice et les documents associés
 2. Prendre connaissance des documents en équipe
@@ -131,3 +131,24 @@ Les contrats informatique sont complexe et appellent une vigilance particulière
 6. Support / Restitution (PDF / PowerPoint)
 
 ---
+
+## La protection des données personnelle
+
+Les données personnelles sont très sensible, c'est quelque chose avec lequel on doit manipuler avec précaution.
+
+### Historique
+
+- **1978**: Loi informatique et liberté : s'attache à la protection de la donnée nominative;
+- **1985**: Loi sur la protection des droits d'auteurs : protéger les logiciels;
+- **1998**: Loi Gauffrin sur la fraude informatique;
+- **2012**: Loi qui permet de réprimer la circonstance aggravante des atteintes commises sur un système mis en œuvre par l'État (loi modifiée en 2014).
+
+### La CNIL
+
+Les données personnelles sont souvent transmises à des organismes ou à des entreprises. ex. remplissage des formulaires sur Internet
+
+Vous disposez de droits sur ces données, grâce a la loi informatique et liberté :
+ 1. Droit d'accès aux informations que détient un organisme sur vous;
+ 2. Droit de modifier/supprimer une informations que détient un organisme sur vous.
+
+ En cas de refus de l'entreprise, c'est la CNIL qui intervient.
