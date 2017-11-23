@@ -57,3 +57,18 @@ Améliorer l'expérience un étudiant de notre programme. (bonus: que ça soit r
 - L'aider à résumer
 
 # Phase 2 : Améliorer la vie des étudiants IMSI
+
+
+Le brainstorming :
+(ne se traduit pas par "tempete de cerveau", mais par "katta d'idée précise")
+
+- rebondir sur les idées
+- écouter les idées des autres
+- Personne ne doit parler
+- On attend son tour pour contribuer, on écoute celui qui parle (ecrit son postit) avant de contribuer derriere
+- on peut préciser une idée s'il n'est pas Clair
+- Une idée doit etre en majuscule et doit être précise, contextualisé
+- pas de problématique de benefice/argent, l'idée doit seulement répondre a la question
+- S'empêcher de faire de la qualité (faire de la quantité)
+- Pas de reflexion analytique
+- Être limité dans le temps (le plus rapide possible)
