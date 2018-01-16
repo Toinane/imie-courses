@@ -42,3 +42,77 @@ Le cadre, c'est un peu comme des règles du jeu (-> charte d'équipe). Il doit �
 Mettre un cadre n'est pas restreindre la liberté, il doit se définir selon l'équipe. On a pas le même cadre selon les équipes.
 
 Il n'y a pas d'équipe sans cadre (s'il n'y en a pas, c'est à vous de définir votre cadre - en équipe).
+
+## Enjeux
+
+Il doit y avoir des objectifs, mais il ne faut surtout pas oublier les enjeux.
+
+Exemple :
+l'objectif est de faire un voyage au Nepal, la compagnie de voyage vous met dans un groupe de 20 personnes au Nepal. L'objectif est rempli, mais le client voulais profiter de ce voyage pour souffler et faire ça seul, c'est un enjeux qui met a mal le résultat.
+
+## Les leviers de Management
+
+Les plus caricaturaux :
+- Offrir des primes
+- Gueuler sur l'équipe
+
+Il y a plein de façon de faire qui marchent plus ou moins bien.
+
+## Résumé
+
+- Équipe = système
+- Encadrement
+- Objectifs
+- Leviers de management
+
+Tout cela est un ensemble d'actes de management. Toute l'équipe va recevoir individuellement cet acte de management.
+
+Il ne faut surtout pas classer les personnes de l'équipe (c'est interdit légalement).
+Naturellement, les gens n'aiment pas changer.
+
+Types de personnes dans l'équipe :
+
+```
+Degrés d'influence
+↑
+||-----------||-----------||----------|
+|| Opposant  ||           ||  Moteur  |
+||-----------||           ||----------|
+||-----------|| Hésitant  ||----------|
+||           ||           ||          |
+|| Résistant ||           || Militant |
+||           ||-----------||          |
+||-----------||-----------||          |
+||-----------|| Désabusé  ||          |
+|| Grincheux ||           ||          |
+||-----------||-----------||----------|
+⊢--------------------------------------→ Enjeux
+```
+
+## Managers
+
+Il y a 4 grand types de manager :
+```
+                Implication du manager
+                           ↑
+      Directif/Autoritaire | Persuasif/Paternalisme
+                           |
+Centré                     |                     Centré
+sur le  <------------------|-------------------> sur la
+résultat                   |                     relation
+                           |
+            Délégatif      |    Participatif
+                           |
+```
+
+## Délégation Poker
+
+Quel est l'acte de management que je vais produire :
+
+1. Dire - Prendre la décision et le dire à l'équipe
+2. Vendre - Convaincre les gens sur la décision à Prendre
+3. Consulter - Consulter l'équipe avant de prendre la décision
+4. S'entendre - Prendre des décisions avec l'équipe
+5. Conseiller - Influence, mais la décision est prise par l'équipe
+6. Enquêter - Demander des retours suite à la décision de l'équipe
+7. Déléguer - Aucune influence, délégation totale à l'équipe
