@@ -72,6 +72,7 @@ Naturellement, les gens n'aiment pas changer.
 
 Types de personnes dans l'équipe :
 
+*Ce type de tableau ne reflète pas la réalité, il doit juste servir de "plan/guide".*
 ```
 Degrés d'influence
 ↑
@@ -92,6 +93,8 @@ Degrés d'influence
 ## Managers
 
 Il y a 4 grand types de manager :
+
+*Ce type de tableau ne reflète pas la réalité, il doit juste servir de "plan/guide".*
 ```
                 Implication du manager
                            ↑
@@ -116,3 +119,16 @@ Quel est l'acte de management que je vais produire :
 5. Conseiller - Influence, mais la décision est prise par l'équipe
 6. Enquêter - Demander des retours suite à la décision de l'équipe
 7. Déléguer - Aucune influence, délégation totale à l'équipe
+
+## Réunions
+
+- Toujours avoir un sujet du jour.
+- Avoir un animateur de réunion (pour ne pas s'écarter du sujet, faire parler tout le monde).
+- Ne jamais être plus de 10 personnes (sinon après c'est un meetup).
+
+La réunion doit être efficace, elle doit être prévue. Faire un contre-rendu de réunion.
+
+## Entretiens annuel/technique
+
+Cela créer des points de rendez-vous, des rituels (attendu ou crains).
+Les entretiens ont beaucoup de valeur. On ne termine jamais ce genre d'entretiens sans fixer d'objectifs et de revenir sur les anciens objectifs.
