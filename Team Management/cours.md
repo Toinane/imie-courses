@@ -132,3 +132,13 @@ La réunion doit être efficace, elle doit être prévue. Faire un contre-rendu 
 
 Cela créer des points de rendez-vous, des rituels (attendu ou crains).
 Les entretiens ont beaucoup de valeur. On ne termine jamais ce genre d'entretiens sans fixer d'objectifs et de revenir sur les anciens objectifs.
+
+## Phase de changement
+
+- Déni
+- Colère
+- Peur
+- Tristesse
+- L'acceptation
+
+L'erreur est d'essayer de faire passer une personne en déni à l'acceptation directement.
