@@ -142,3 +142,14 @@ Les entretiens ont beaucoup de valeur. On ne termine jamais ce genre d'entretien
 - L'acceptation
 
 L'erreur est d'essayer de faire passer une personne en déni à l'acceptation directement.
+
+## Conflits
+
+Il y a 4 types de conflits :
+
+- Conflits interne (dépression, changement d'état d'une personne)
+- Conflits entre personnes (dans l'équipe, entre équipes)
+- Conflits de rôle
+- Conflits dans l'organisation (quelqu'un qui estime qu'il n'a pas le bon poste/travail)
+
+Pour résoudre un conflit, il faut d'abord être dans la communication. Être isolé, cela peut être très humiliant pour la personne d'être recadré devant tout le monde. Avoir une écoute nourrissante, on laisse parler les personnes, et faire ressortir ce qui est bien, il faut travailler l'écoute.
