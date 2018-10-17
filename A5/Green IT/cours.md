@@ -125,3 +125,12 @@ La Responsabilité Sociale d'Entreprise est également appelée :
 - Meilleure négociation avec les banques et assurances
 - Meilleure motivation et implication du personnel
 
+---
+
+## Le Green IT
+
+### Définition officielle
+
+- **Le journal officiel de la République française** du 12 juillet 2009 définit les éco-Techniques de l'Information et de la Communication comme étant des *techniques de l'information et de la communication dont la conception ou l'emploi permettent de réduire les effets négatifs de l'activité humaine sur l'environnement*.
+
+- Le journal officiel précise que "*la réduction des effets négatifs de l'activité humaine sur l'environnement tient à la diminution de la consommation d'énergie et des émissions de gaz à effet de serre qui résulte du recours aux éco-techniques ou à la conception même de ces techniques, qui s'attache à diminuer les agressions qu'elles pourraient faire subir à l'environnement au cours de leur cycle de vie*".
