@@ -134,3 +134,42 @@ La Responsabilité Sociale d'Entreprise est également appelée :
 - **Le journal officiel de la République française** du 12 juillet 2009 définit les éco-Techniques de l'Information et de la Communication comme étant des *techniques de l'information et de la communication dont la conception ou l'emploi permettent de réduire les effets négatifs de l'activité humaine sur l'environnement*.
 
 - Le journal officiel précise que "*la réduction des effets négatifs de l'activité humaine sur l'environnement tient à la diminution de la consommation d'énergie et des émissions de gaz à effet de serre qui résulte du recours aux éco-techniques ou à la conception même de ces techniques, qui s'attache à diminuer les agressions qu'elles pourraient faire subir à l'environnement au cours de leur cycle de vie*".
+
+C'est un concept qui vise à réduire l'empreinte écologique, économique, et sociale des technologies de l'information et de la communication (TIC)
+
+Il s'agit d'une manière globale et cohérente de réduire les nuisances rencontrées dans le domaine des équipements informatiques et ce, sur toute la durée de vie de chaque équipement :
+soit aux différents stades de fabrications, d'utilisation (consommation d'énerge) et de fin de vie.
+
+## Quelques chiffres
+
+- D'ici 2020, 50 à 75 milliard d'objets seront connectés, en plus de 3 milliards d'internautes actuels
+
+- Un phénomène d'obésiciel en accélération : le poids moyen d'une page web est passé de 14ko en 1995 à plus de 1600ko de 2015.
+
+- A minima, environ 44 millions de serveurs stockent et traitent les données internet
+
+- 3 milliards d'internautes (soit 40% de la population mondiale) qui accèdent aux sites web et aux services en ligne via 9 milliards d'objets et de terminaux connectés.
+
+- Durée de vie d'un ordinateur de bureau à peu près égale à celle d'un serveur soit 4 à 6 ans.
+
+- Durée de vie moyenne d'un smartphone = 18 à 24 mois.
+
+- Si Internt était un pays, il serait le 4ème consommateur mondial d'électricité.
+
+- SI nous n'agissons pas, "Internet consommera autant d'énergie en 2037 que la Terre entière en 2008"
+
+- L'informatique génère 2% des émissions de CO2 liées à l'activité humaine. Autant que l'ensemble de la flotte aérienne mondiale.
+
+- Le coût énergétique peut aujourd'hui représenter jusqu'à 40% du budget informatique global d'une entreprise.
+
+- 35 à 50% de l'électricité consommé par un centre informatique sert à refroidir les serveurs.
+
+- Aujourd'hui, la plupart des serveurs et des postes de travail ne sont utilisés qu'entre 8 et 15% lorsqu'ils sont allumés.
+
+## Les acteurs du Green IT
+
+Selon vous, quels sont-ils ?
+
+- Les fabricants de matériels
+- Les consommateurs / internautes
+- Les développeurs / éditeurs
