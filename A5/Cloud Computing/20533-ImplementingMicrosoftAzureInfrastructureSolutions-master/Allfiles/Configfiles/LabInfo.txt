@@ -1,0 +1,11 @@
+Lab 1. Managing Microsoft Azure. Setup will set the global variables representing the Azure subscription and the Azure region you designate.
+Lab 2A and 2B. Implementing Azure Virtual Networks. Setup will set the global variables representing the Azure subscription and the Azure region you designate. It will also provision two Azure virtual network with a Windows Server 2016 Azure VM on each in that region.
+Lab 3A and 3B. Deploying Azure VMs. Setup will set the global variables representing the Azure subscription and the Azure region you designate.
+Lab 4. Managing Azure VMs. Setup will set the global variables representing the Azure subscription and the Azure region you designate. It will also deploy three Windows Server 2016 Azure VMs in the same resource group in that region. 
+Lab 5. Implementing Azure Web Apps. Setup will set the global variables representing the Azure subscription and the Azure region you designate.
+Lab 6. Planning and Implementing Azure Storage. Setup will set the global variables representing the Azure subscription and the Azure region you designate. It will also deploy one Windows Server 2016 Azure VM in that region. 
+Lab 7A and 7B. Implementing containers in Azure. Setup will set the global variables representing the Azure subscription and the Azure region you designate. It will also deploy a Linux Azure VM with Docker in that region.
+Lab 8. Implementing Azure Backup and Azure Site Recovery. Setup will set the global variables representing the Azure subscription and the Azure region you designate. It will also deploy one Windows Server 2016 Core Azure VM in that region. 
+Lab 9. Implementing Azure AD. Setup will set the global variables representing the Azure subscription and the Azure region you designate.
+Lab 10. Implementing and managing Azure AD synchronization. Setup will set the global variables representing the Azure subscription and the Azure region you designate. It will also deploy a Windows Server 2016 Azure VM hosting a domain controller in that region.
+Lab 11. Implementing Automation. Setup will set the global variables representing the Azure subscription and the Azure region you designate. It will also deploy a pair of Windows Server 2016 Azure VMs in that region.

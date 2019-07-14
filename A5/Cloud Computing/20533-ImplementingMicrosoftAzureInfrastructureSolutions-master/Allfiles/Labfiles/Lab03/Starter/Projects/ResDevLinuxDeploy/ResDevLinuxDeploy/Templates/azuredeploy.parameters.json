@@ -1,0 +1,27 @@
+﻿{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+  "parameters": {
+    "adminPassword": {
+      "value": "Pa55w.rd1234"
+    },
+    "adminUsername": {
+      "value": "Student"
+    },
+    "resourceGroupName": {
+      "value": "20533E0301-LabRG"
+    },
+    "subnetName": {
+      "value": "app"
+    },
+    "virtualNetworkName": {
+      "value": "20533E0301-labVNet"
+    },
+    "vmName": {
+      "value": "20533E03LabVM4"
+    },
+    "ubuntuOSVersion": {
+      "value": "16.04.0-LTS"
+    }
+  }
+}

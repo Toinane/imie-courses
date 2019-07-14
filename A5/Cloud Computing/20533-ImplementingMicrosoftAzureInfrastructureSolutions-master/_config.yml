@@ -1,0 +1,20 @@
+title: '20533: Implementing Microsoft Azure Infrastructure Solutions'
+remote_theme: azure-immersion/docs-jekyll-theme
+exclude:
+  - readme.md
+  - .build/
+  - .circleci/
+  - .github/
+header_pages:
+  - index.html
+author: Microsoft Learning
+twitter_username: mslearning
+github_username:  MicrosoftLearning
+plugins:
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jemoji
+markdown: kramdown
+kramdown:
+   syntax_highlighter_opts:
+      disable : true
